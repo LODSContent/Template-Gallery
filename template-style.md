@@ -4,7 +4,7 @@ summary{
     margin: 20px 0;
     font-weight: bold;
 }
-h3{
+h2{
     font-weight: bold;
 }
 </style>
