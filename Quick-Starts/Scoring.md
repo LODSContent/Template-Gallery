@@ -4,7 +4,7 @@
 
 1. Inside of the IDLx editor, cilck on the **Activity** button from the toolbar to open the Activity Manager.
 
-    !IMAGE[activity-icon.png](./activity-icon.png)
+    !IMAGE[activity-icon.png](./media/activity-icon.png)
 
 1. To create a scored lab, click on the **switch** next to Enable Scoring.
 
@@ -12,7 +12,7 @@
 
 1. Click **New Automated Activity**.
 
-    !IMAGE[activity-manager.png](./activity-manager.png)
+    !IMAGE[activity-manager.png](./media/activity-manager.png)
 
 1. Fill-in the basic information for your activity as follows.
 
@@ -36,13 +36,13 @@
 
 1. In the script sections, select the target for your automated activity. This could be virtual machines, cloud subscriptions, or a container.
 
-    !IMAGE[target-selector.png](./target-selector.png)
+    !IMAGE[target-selector.png](./media/target-selector.png)
 
     > [!ALERT] If your lab only contains one target, you will only see 1 option in this field.
 
 1. In the script section, set the score value to 10.
 
-    !IMAGE[score-value.png](./score-value.png)
+    !IMAGE[score-value.png](./media/score-value.png)
 
 1. Based on your selected target, paste one of the below scripts into the script section:
 
@@ -133,7 +133,7 @@ $result
 
 1. Click **New Question**.
 
-    !IMAGE[activity-manager.png](./activity-manager.png)
+    !IMAGE[activity-manager.png](./media/activity-manager.png)
 
 1. Fill-in the basic information for your question as follows.
 
