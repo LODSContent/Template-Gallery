@@ -15,7 +15,7 @@ If the provided virtual machines or containers require changes/updates to or add
 
 Windows licensing will vary from template to template, and even VM to VM within those templates. There are two versions of Windows which will have unique licensing requirements depending on your use.
 
-- Windows Server virtual machines will not be licensed within LOD rovided templates. There are two options in licensing Windows Server virtual machines:
+- Windows Server virtual machines will not be licensed within LOD provided templates. There are two options in licensing Windows Server virtual machines:
 
     1. License on your own - This would utilize your own Windows Server licensing keys in a method that corresponds to the licensing agreement between your organization and Microsoft.
 
