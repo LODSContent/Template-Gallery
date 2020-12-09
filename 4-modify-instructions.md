@@ -28,7 +28,7 @@ More information coming soon...
 
 ### Challenge
 
-More information coming soon...
+!VIDEO[Challenge Labs Quick Start Video](https://lodmanuals.blob.core.windows.net/manuals/Quick%20Starts/Challenge%20Labs%20video.mp4)
 
 :::
 
