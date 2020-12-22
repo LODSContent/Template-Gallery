@@ -59,7 +59,7 @@
     } else {
         $result = $true
         "At least one text file was found on the desktop."
-        $desktopTxt
+        $desktopTxt.Name
     }
     $result
     ```
