@@ -36,7 +36,7 @@
 
 1. In the script sections, select the target for your automated activity. This could be virtual machines, cloud subscriptions, or a container.
 
-    !IMAGE[target-selector.png](./media/target-selector.png)
+    !IMAGE[target-selecter.png](./media/target-selecter.png)
 
     > [!ALERT] If your lab only contains one target, you will only see 1 option in this field.
 
