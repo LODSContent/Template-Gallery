@@ -61,6 +61,7 @@
         "At least one text file was found on the desktop."
         $desktopTxt
     }
+    $result
     ```
     >[!knowledge] This script tests for the existence of a text file on the desktop. To test, create a text file on the desktop and the result should be successful.
 
@@ -99,7 +100,7 @@
         $result = $true
         "The Storage Account has  been created successfully."
     }
-$result
+    $result
     ```
     >[!knowledge] This script tests to see if a storage account has been created. In order to test, create a storage account named "stor@lab.LabInstance.Id". 
 
