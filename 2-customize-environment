@@ -24,7 +24,7 @@ This template has been provided as a starting point for lab creation. In many ca
 > ## Modify Virtual Environment
 > Lab environments may contain either Virtual Machines or Containers. These can be modified either prior to copying the template or after.
 > 
-> If the provided virtual machines or containers require changes/updates to or addition/removal of software you may perform this now. Once you have completed the updates > you require, or if the virtual machines or containers do not need any software modifications, please advance to the **Save Modified Environment** section to perform tasks > such as modifying hardware settings (including RAM and CPU) or removing components like entire virtual machines or networks.
+> If the provided virtual machines or containers require changes/updates to or addition/removal of software you may perform this now. Once you have completed the updates you require, or if the virtual machines or containers do not need any software modifications, please advance to the **Save Modified Environment** section to perform tasks such as modifying hardware settings (including RAM and CPU) or removing components like entire virtual machines or networks.
 > 
 > > [!NOTE] If you make changes to the virtual environment while testing the environment and do NOT want to keep them, you can choose to discard them in the next steps.
 
