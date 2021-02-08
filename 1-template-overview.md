@@ -2,11 +2,51 @@
 
 ## **Virtual Environment Description**
 
+:::virt-desc(virt=local)
+
 !INSTRUCTIONS[][virt-desc]
+
+:::
+
+:::virt-desc(virt=cloud)
+
+!INSTRUCTIONS[][virt-desc]
+
+:::
+
+:::virt-desc(virt=docker)
+
+!INSTRUCTIONS[][virt-desc]
+
+:::
+
+:::virt-desc(virt=none)
+
+In this template, no virtualization components are provided.
+
+:::
+
+:::linux-hyperv(linux-gui-hv=true)
+
+### Linux Desktop on Hyper-V
+
+This template includes a Linux Desktop envrionment hosted on Hyper-V. Due to limitations between Hyper-V and Linux guests, you may see limited functionality when compared to Windows on Hyper-V such as no Dynamic Screen Resizing and Type Text not working. If Hyper-V is not a requirement, it is recommended to use the vSphere version of this template for a more complete experience with Linux desktop environments.
+
+:::
 
 ## **Cloud Components Description**
 
+:::cloud-desc(cloud=true)
+
 !INSTRUCTIONS[][cloud-desc]
+
+:::
+
+:::cloud-desc(cloud=false)
+
+In this template, no cloud components are provided.
+
+:::
 
 ## **Template Feedback/Requests**
 
