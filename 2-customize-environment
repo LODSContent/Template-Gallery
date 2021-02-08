@@ -2,12 +2,33 @@
 
 This template has been provided as a starting point for lab creation. In many cases modifications are required to meet the specific needs of your lab goals. Follow the steps below to customize the environment.
 
-## Modify Virtual Environment
-Lab environments may contain either Virtual Machines or Containers. These can be modified either prior to copying the template or after.
+:::virt-desc(virt=local)
 
-If the provided virtual machines or containers require changes/updates to or addition/removal of software you may perform this now. Once you have completed the updates you require, or if the virtual machines or containers do not need any software modifications, please advance to the **Save Modified Environment** section to perform tasks such as modifying hardware settings (including RAM and CPU) or removing components like entire virtual machines or networks.
+!INSTRUCTIONS[][modify-virtual-envrionment]
 
-> [!NOTE] If you make changes to the virtual environment while testing the environment and do NOT want to keep them, you can choose to discard them in the next steps.
+:::
+
+:::virt-desc(virt=cloud)
+
+!INSTRUCTIONS[][modify-virtual-envrionment]
+
+:::
+
+:::virt-desc(virt=docker)
+
+!INSTRUCTIONS[][modify-virtual-envrionment]
+
+:::
+
+> [modify-virtual-envrionment]:
+> ## Modify Virtual Environment
+> Lab environments may contain either Virtual Machines or Containers. These can be modified either prior to copying the template or after.
+> 
+> If the provided virtual machines or containers require changes/updates to or addition/removal of software you may perform this now. Once you have completed the updates > you require, or if the virtual machines or containers do not need any software modifications, please advance to the **Save Modified Environment** section to perform tasks > such as modifying hardware settings (including RAM and CPU) or removing components like entire virtual machines or networks.
+> 
+> > [!NOTE] If you make changes to the virtual environment while testing the environment and do NOT want to keep them, you can choose to discard them in the next steps.
+
+:::Virtualization(virt=local)
 
 ## Virtual Machine Licensing
 
@@ -30,6 +51,8 @@ Windows licensing will vary from template to template, and even VM to VM within 
 
 Distrobutions of Linux provided in your template will utilize open source licensing and therefore are ready to go on launch!
 
+:::
+
 ## Save Modified Environment
 
 To permanently save this environment into your own organization, follow these steps:
@@ -39,14 +62,15 @@ To permanently save this environment into your own organization, follow these st
     
     > [!ALERT] If you have not yet utilized the "Create New" option, you must select it. After creating a new lab in your own organization you may choose to make additional updates here by updating the current lab.
 
+:::cloud(cloud=true)
 ## Determine Additional Required Cloud Components
 Determining the required cloud components and designing a template to deploy them will be different depending upon your cloud provider. Please select the cloud provider in your lab and follow the steps below to generate a resource template.
 
 > [!ALERT] The previous step [**Save Modified Environment**](#save-modified-environment) above and the access control policy changed may be required before you can successfully perform these steps.
 
-@lab.DropDownList(cloud)[None,AWS,Azure]
+:::
 
-:::cloudmod(cloud=AWS)
+:::cloudmod(cFabric=AWS)
 
 ### Amazon Web Services
 
@@ -54,15 +78,14 @@ More information coming soon...
 
 :::
 
-:::cloudmod(cloud=Azure)
+:::cloudmod(cFabric=Azure)
 
 ### Microsoft Azure
 
 More information coming soon...
 
 :::
-</details>
 
-
-<!-- End Include for "Base Customization"-->
 Click [Here](#user-exp) to begin customizing the user experience.
+
+
