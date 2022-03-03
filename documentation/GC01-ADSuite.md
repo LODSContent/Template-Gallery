@@ -24,7 +24,7 @@
   - [Virtual Machines Specifications](#virtual-machines "Virtual machines specifications")
   - [Networking Specifications](#networking "Networking specifications")
   - [Programs installed on VMs](#software "Software")
-===
+
 
 
 <span id="virtual-machines"><h1 style="color:#1A7B4A;font-weight:bold">Virtual Machines</h1></span>
@@ -45,7 +45,7 @@
 
 [Return to table of contents](#toc "Table of contents")
 
-===
+
 <span id="networking"><h1 style="color:#1A7B4A;font-weight:bold">LAN Network Settings</h1></span>
 
 |||
@@ -56,11 +56,11 @@
 
 <span><h1 style="color:#1A7B4A;font-weight:bold">Network Diagram</h1></span>
 
-!IMAGE[Hexelo network diagram](GC-Hexelo-Network.png)
+!IMAGE[Hexelo network diagram](https://github.com/LODSContent/Template-Gallery/raw/master/documentation/GC-Hexelo-Network.png)
 
 [Return to table of contents](#toc "Table of contents")
 
-===
+
 
 <span id="software"><h1 style="color:#1A7B4A;font-weight:bold">Installed Software</h1></span>
 
@@ -83,5 +83,5 @@ Windows Terminal
 
 [Return to table of contents](#toc "Table of contents")
 
-===
+
 
