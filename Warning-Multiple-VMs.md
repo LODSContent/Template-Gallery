@@ -1,0 +1,1 @@
+ <span class="warn-icon">This profile includes a number of virtual machines. Be sure to remove any virtual machines that you do not use to minimize the cost of running this lab profile.</span>

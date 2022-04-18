@@ -56,7 +56,7 @@
 
 <span><h1 style="color:#1A7B4A;font-weight:bold">Network Diagram</h1></span>
 
-!IMAGE[Hexelo network diagram](https://github.com/LODSContent/Template-Gallery/raw/master/documentation/GC-Hexelo-Network.png)
+!IMAGE[Hexelo network diagram](GC-Hexelo-Network.png)
 
 [Return to table of contents](#toc "Table of contents")
 

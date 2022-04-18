@@ -1,0 +1,48 @@
+## VM Optimizations
+
+- System Performance Settings: Best Performance, Smooth Screen Fonts
+
+- Power Settings: High Performance, Display Never Shut Off 
+
+- Set screen resolution to 1024x768 
+
+- Windows 10 - Disabled Lock Screen and Background Image 
+- Windows Server - Disabled IE Security for Admins and Users
+
+- Windows Updates Cache cleared
+
+- Wallpaper is solid color  
+
+- All browsers default webpage is 'about:blank' and
+
+
+- Power & Sleep: Screen turn off set to **Never**
+
+- Installed PowerShell Modules
+  - Module Az
+  - Module Azure AD
+  - Module MSonline
+  - Module Microsoft Online SharePoint
+  - Module Exchange Online Management
+  - Module Microsoft Graph
+  - Module AWS tools Installer
+  - Module Google Cloud
+  - Module PS Windows Update (Win Update Manager)
+  - Module Update PS Help (Get-Help Update)
+
+- Installed All Current Windows Updates 
+- Disabled Lock screen
+- Disabled Windows Updates
+- Set passwords not to expire
+- Disabled requirement for CTRL + ALT + DEL to sign in
+- Disabled and refused Domain Password change prompts 
+- Disabled Network Notifications
+- Set Network to Private
+- Enabled Remote Desktop Access
+- Create firewall settings for 192.168.10.0/24 network (outbound, inbound)
+
+
+
+1. [] Optimise Edge (Policies)
+2. [] Policy enforcement on non MDM managed/domain-joined computers
+3. [] Configure Edge settings
