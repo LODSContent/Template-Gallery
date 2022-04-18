@@ -2,7 +2,7 @@
 
 # !INSTRUCTIONS[][challenge-title]
 
-## Template Description
+## **Template Description**
 
 !INSTRUCTIONS[][virt-desc]
 
@@ -14,8 +14,11 @@ To provide a better lab developer experience, we need your feedback to expand an
 
 Please let us know your feedback by contacting us at <a href="mailto:Templates@learnondemandsystems.com?subject=Feedback Source: Lab @lab.LabProfile.Id">Templates@learnondemandsystems.com</a> with a description of the template design you'd like to see and as many details as possible. We would love to hear from you!
 
+## Activities Test
 
+Select the Test Activities button below to verify that automated activities work properly with this lab profile.
 
+@lab.ActivityGroup(examples)
 
 
 
