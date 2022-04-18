@@ -3,10 +3,10 @@
 <div class="container">
     <div class="row" style="background-color: rgb(26,123,74) !important;">
         <div class="col-md-3"></div>
-        <div class="col-md-6"
+        <div id= "documentation" class="col-md-6"
             style="color:rgb(255,255,255); font-size: 28px; vertical-align: bottom; font-family: 'Noto Sans JP', sans-serif;  text-align: center;  padding-top:60px ;">
             
-                Lab Documentation{documentation}
+                Lab Documentation
         </div>
         <div class="col-md-3" style="margin-right:-10px"><img
                 src="https://lodmanuals.blob.core.windows.net/lms/CLabsInstTemplate/Skillable%20RO%20logo.png"
