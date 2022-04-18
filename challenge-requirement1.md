@@ -1,3 +1,4 @@
+<span id="challenge-labs"></span>
 !INSTRUCTIONS[](https://raw.githubusercontent.com/LODSContent/Challenge-V2-Framework/master/Templates/Requirements/Requirement1.md)
 
 >[requirement-1-title]:  [The requirement title goes here](https://lodmanuals.blob.core.windows.net/lms/CLabsInstTemplate/Task%20Title.png "Tips for writing engaging requirement titles")
