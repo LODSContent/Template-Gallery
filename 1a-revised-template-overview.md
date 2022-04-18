@@ -1,6 +1,6 @@
 !INSTRUCTIONS[](https://raw.githubusercontent.com/LODSContent/Challenge-V2-Framework/master/Templates/LevelSpecific/Logos/@lab.Variable(difficulty).md)
 
-# !INSTRUCTIONS[][title]
+# !INSTRUCTIONS[][challenge-title]
 
 ## Template Description
 
