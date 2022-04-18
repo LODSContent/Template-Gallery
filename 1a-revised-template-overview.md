@@ -1,11 +1,10 @@
-# Template Overview
+!INSTRUCTIONS[](https://raw.githubusercontent.com/LODSContent/Challenge-V2-Framework/master/Templates/LevelSpecific/Logos/@lab.Variable(difficulty).md)
 
-## !INSTRUCTIONS[][template-title]
+# !INSTRUCTIONS[][title]
 
-## **Virtual Environment Description**
+## Template Description
 
 !INSTRUCTIONS[][virt-desc]
-
 
 ## **Template Feedback/Requests**
 
@@ -19,12 +18,13 @@ Please let us know your feedback by contacting us at <a href="mailto:Templates@l
 
 
 
-## **Customize the Template**
 
-Click one of the below options to see instructions for completing that step.
-
-- [Environment Details](#documentation)
-- [Creating Challenge Labs](#lab-challenge)
+:::help
+## Lab development links
+- [Environment Documentation](#documentation)
+- [Challenge Lab Format](#challenge-labs)
 - [Customize the Lab Environment](#lab-env)
 - [Customize the User Experience](#user-exp)
 - [Modify the Lab Instructions](#mod-inst)
+
+:::

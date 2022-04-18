@@ -6,7 +6,7 @@
         <div class="col-md-6"
             style="color:rgb(255,255,255); font-size: 28px; vertical-align: bottom; font-family: 'Noto Sans JP', sans-serif;  text-align: center;  padding-top:60px ;">
             
-                Lab Documentation
+                Lab Documentation{documentation}
         </div>
         <div class="col-md-3" style="margin-right:-10px"><img
                 src="https://lodmanuals.blob.core.windows.net/lms/CLabsInstTemplate/Skillable%20RO%20logo.png"
@@ -24,6 +24,8 @@
 |IP Address|192.168.10.2|
 |Type|Stand-alone Client|
 |Domain/Work group|Challenge-Group|
+|Login account|+++Admin+++|
+|Password|+++Passw0rd!+++|
 
 
 
@@ -32,6 +34,7 @@
 |Software|Version|     
 |-----------|--------------|
 |AWS CLI|2.2.39|
+|Azure PowerShell|6.4.0|
 |Chocolatey|0.11.1|
 |Chocolatey GUI|0.19.0.0|Chocolatey|20210920|
 |GCP SDK|0.0.0.20210318|
