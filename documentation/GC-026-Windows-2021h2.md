@@ -33,6 +33,7 @@
 
 |Software|Version|     
 |-----------|--------------|
+|Windows 10| 21H2 (19044.1586)|
 |AWS CLI|2.2.39|
 |Azure PowerShell|6.4.0|
 |Chocolatey|0.11.1|
